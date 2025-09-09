@@ -18,8 +18,4 @@ This project includes:
 
 ---
 
-## 💻 Demo Instructions
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/kiddo991/coldwallet-integrity-guard.git
-   cd coldwallet-integrity-guard
+
